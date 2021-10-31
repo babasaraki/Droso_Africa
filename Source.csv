@@ -1,0 +1,11 @@
+Country,Latitude1,Longitude1,"If sourced abroad, where?",,Latitude2,Longitude2,Number
+Algeria,36.42,3.08,FRANCE,Europe,50.3785,14.9706,3
+Cameroon,3.5,11.35,USA,North America,48.740861,-107.363281,5
+Egypt,26.8206,30.8025,Germany,Europe,50.3785,14.9706,1
+Kenya,-1.17,36.48,USA,North America,48.740861,-107.363281,1
+Nigeria,9.05,7.32,USA,North America,48.740861,-107.363281,12
+Nigeria,9.05,7.32,Brazil,South America,-8.59183,-57.565291,3
+South Africa,-25.44,28.12,USA,North America,48.740861,-107.363281,2
+South Africa,-25.44,28.12,Singapore,Asia,49.895716,78.906248,1
+South Africa,-25.44,28.12,UK,Europe,50.3785,14.9706,1
+Uganda,1.3733,32.2903,USA,North America,48.740861,-107.363281,3

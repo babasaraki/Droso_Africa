@@ -1,0 +1,37 @@
+name,Year,Number,Region,GDP
+Tanzania,2000,0,East Africa,150600
+Kenya,2000,1,East Africa,906.5
+South Africa,2000,1,Southaern Africa,66010
+Benin,2000,0,West Africa,4719
+Nigeria,2000,2,West Africa,152700
+Cameroon,2000,0,Central Africa,176300
+Mozambique,2000,0,East Africa,30590
+Tunisia,2000,0,North Africa,739100
+Algeria,2000,0,North Africa,6019
+Morocco,2000,1,North Africa,28330
+Egypt,2000,7,North Africa,35900
+Uganda,2000,0,East Africa,25990
+Tanzania,2010,2,East Africa,39720
+Kenya,2010,5,East Africa,38090
+South Africa,2010,3,Southaern Africa,16710
+Benin,2010,2,West Africa,24310
+Nigeria,2010,2,West Africa,20150
+Cameroon,2010,0,Central Africa,1089000
+Mozambique,2010,0,East Africa,77240
+Tunisia,2010,0,North Africa,11610
+Algeria,2010,0,North Africa,120800
+Morocco,2010,6,North Africa,87120
+Egypt,2010,1,North Africa,16080
+Uganda,2010,1,East Africa,2851
+Tanzania,2020,5,East Africa,3881
+Kenya,2020,14,East Africa,10640
+South Africa,2020,13,Southaern Africa,32990
+Benin,2020,2,West Africa,3206
+Nigeria,2020,27,West Africa,30270
+Cameroon,2020,6,Central Africa,35980
+Mozambique,2020,1,East Africa,31770
+Tunisia,2020,11,North Africa,65170
+Algeria,2020,6,North Africa,21200
+Morocco,2020,4,North Africa,35010
+Egypt,2020,8,North Africa,11060
+Uganda,2020,3,East Africa,189000

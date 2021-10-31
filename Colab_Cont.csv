@@ -1,0 +1,21 @@
+Country,Latitude1,Longitude1,Number,Continent,Latitude2,Longitude2
+Algeria,36.42,3.08,4,Europe,50.3785,14.9706
+Benin,6.23,2.42,4,Europe,50.3785,14.9706
+Cameroon,3.5,11.35,5,Europe,50.3785,14.9706
+Kenya,-1.17,36.48,5,North America,48.740861,-107.363281
+Kenya,-1.17,36.48,5,Europe,50.3785,14.9706
+Kenya,-1.17,36.48,1,Oceanea,-22.909333,133.833814
+Morocco,31.628674,-7.992047,8,Europe,50.3785,14.9706
+Mozambique,-25.58,32.32,1,Europe,50.3785,14.9706
+Nigeria,9.05,7.32,4,Asia,49.895716,78.906248
+Nigeria,9.05,7.32,5,South America,-8.59183,-57.565291
+Nigeria,9.05,7.32,5,Europe,50.3785,14.9706
+Nigeria,9.05,7.32,2,North America,48.740861,-107.363281
+Nigeria,9.05,7.32,3,Oceania,-22.909333,133.833814
+South Africa,-25.44,28.12,3,Europe,50.3785,14.9706
+South Africa,-25.44,28.12,1,Oceanea,-22.909333,133.833814
+South Africa,-25.44,28.12,1,Asia,49.895716,78.906248
+South Africa,-25.44,28.12,2,Europe,50.3785,14.9706
+Tanzania,-6.369,34.8888,6,Europe,50.3785,14.9706
+Tunisia,36.5,10.11,6,Europe,50.3785,14.9706
+Zimbabwe,-17.43,31.02,3,Europe,50.3785,14.9706
